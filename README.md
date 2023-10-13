@@ -1,5 +1,5 @@
 # Gauntl33tBackplaneSimple
- Simple backplane for controlling BLDC motors, designed at the end of 2022.  No active or passive components, just connectors.  In the future will likely make upgrades, such as taking advantage of soft I2C, but keep the board as a simple backplane.
+ Simple backplane for controlling Brushless DC Gimbal motors in haptic gloves or other devices, designed at the end of 2022.  No active or passive components, just connectors.  In the future will likely make upgrades, such as taking advantage of soft I2C, but keep the board as a simple backplane.
 
  3D Models on Printables: https://www.printables.com/model/366681-gauntl33t  More to be added soon.
 
