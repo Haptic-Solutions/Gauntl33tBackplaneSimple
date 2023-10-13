@@ -7,6 +7,12 @@
 
  Haptic Solutions Discord: https://discord.gg/QZYmbjJW
 
+ Haptic Solutions Twitter: https://twitter.com/Hapticsol
+
+ Peter Sassaman's Twitter: https://twitter.com/PeterSassaman
+
+ Peter Sassaman's TikTok: https://www.tiktok.com/t/ZPR7QYvvF/
+
 ![alt text](https://github.com/Haptic-Solutions/Gauntl33tBackplaneSimple/blob/main/images/image1.png?raw=true)
 
 ![alt text](https://github.com/Haptic-Solutions/Gauntl33tBackplaneSimple/blob/main/images/image2.png?raw=true)
