@@ -29,6 +29,8 @@ https://simplefoc.com/
 
  Buy Teensy 4.0: https://a.co/d/iZoN8jr
 
+ Micro PSU which could be used with design to make it smaller: https://github.com/Haptic-Solutions/MicroPSU
+
 ![alt text](https://github.com/Haptic-Solutions/Gauntl33tBackplaneSimple/blob/main/images/image1.png?raw=true)
 
 ![alt text](https://github.com/Haptic-Solutions/Gauntl33tBackplaneSimple/blob/main/images/image2.png?raw=true)
