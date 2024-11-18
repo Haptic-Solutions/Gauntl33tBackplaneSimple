@@ -5,7 +5,7 @@
 
  3D Models on Printables: https://www.printables.com/model/366681-gauntl33t
 
- Firmware: Coming Soon!
+ Firmware: https://github.com/Haptic-Solutions/Gauntl33tFirmware
 
  Haptic Solutions Website: https://hapticsol.com
 
