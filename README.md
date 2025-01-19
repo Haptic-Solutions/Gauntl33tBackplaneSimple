@@ -7,6 +7,8 @@
 
  Firmware: https://github.com/Haptic-Solutions/Gauntl33tFirmware
 
+ Demo Game: https://github.com/Haptic-Solutions/DartsGame
+
  Haptic Solutions Website: https://hapticsol.com
 
  Haptic Solutions Discord: https://discord.gg/QZYmbjJW
